@@ -44,6 +44,7 @@ gabriel.santos.gjs@outlook.com
 
 [Linkedin](www.linkedin.com/in/gabrieljdsantos)
 
+[dev.to](https://dev.to/gabriel_jdsantos)
 
 
 ```python```
